@@ -1,0 +1,60 @@
+p{
+    color: black(153, 51, 136);
+    font-weight: 450;
+    font-style: italic;
+}
+h2{
+    color: black;
+    font-weight: 900;
+    font-style: italic;
+}
+table{
+    font-style: italic;
+}
+css
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* header */
+header {
+  background-color: #eeeeee;
+  height: 70px;
+}
+#nav {
+  list-style-type: none;
+  margin-left: 900px;
+}
+#nav li {
+  display: inline-block;
+  margin-left: 20px;
+}
+#nav a {
+  text-decoration: none;
+  color: black;
+}
+#nav a:hover {
+  color: violet;
+}
+table{
+  width: 80%;
+}
+h3{
+  border: 18px solid chartreuse;
+}
+body{
+  background-color: blueviolet;
+}
+h2{
+  color: rgba(80, 500, 80 , 250 ); 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: x-large ;
+  font-weight: 900;
+  flex-direction: row-reverse;
+}
+h4{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  font-weight: 900;
+}
